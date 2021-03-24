@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Before Running the Scripts
 
-Add the token information (from blackboard submission) to line 17 of nav.js file; otherwise, you would encounter errors. Please do this before following the rest of the instructions.
+Add the token information to line 17 of nav.js file; otherwise, you would encounter errors. Please do this before following the rest of the instructions.
 
 ## Available Scripts
 
